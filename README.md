@@ -1,3 +1,3 @@
 # Legal Jargon
 
-Testing aggregated batch status 
+Testing aggregated batch status only
